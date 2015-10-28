@@ -1,0 +1,15 @@
+{
+  "name": "angular-bootstrap-colorpicker-mix",
+  "version": "1.0.0",
+  "main": [
+		"js/bootstrap-colorpicker-module-mix.js",
+		"css/colorpicker-v2.css"
+	],
+  "ignore": [
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
