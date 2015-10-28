@@ -104,7 +104,7 @@ angular.module('colorpicker.module', [])
         },
         'mix' : function () {
 	    	return this.toMix();
-        }
+        },
 
         // HSBtoRGB from RaphaelJS
         RGBtoHSB: function (r, g, b, a) {
