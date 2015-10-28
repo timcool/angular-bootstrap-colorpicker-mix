@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-colorpicker-mix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native AngularJS colorpicker directive",
   "main": "js/bootstrap-colorpicker-module-mix.js",
   "directories": {
